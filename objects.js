@@ -1,1 +1,1 @@
-Object.assign({}, {The Neighbourhood: 'Sweater Weather'});
+const playlist = Object.assign({}, {The Neighbourhood: 'Sweater Weather'});
