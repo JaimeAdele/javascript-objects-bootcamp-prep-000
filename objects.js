@@ -1,3 +1,3 @@
-const playlist = {
+var playlist = {
   The Neighbourhood: 'Sweater Weather'
 };
